@@ -1,0 +1,9 @@
+[package]
+name = "collada"
+version = "0.1.0"
+authors = ["Kai Sellgren <kaisellgren@gmail.com>"]
+
+[dependencies]
+xml-rs = "*"
+chrono = "*"
+url = "*"
